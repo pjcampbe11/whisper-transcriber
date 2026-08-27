@@ -1,6 +1,6 @@
 # whisper-transcriber
 
-Not sure exactly how DPRK is leveraging whisper, but this is how I'd do it. -> Local, offline speech-to-text for **any audio or video file** — calls, meetings, voicemails, screen recordings, videos — using [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (CTranslate2 port of OpenAI Whisper, ~4x faster than the original). Optional speaker labels via pyannote. Nothing leaves your machine.
+Local, offline speech-to-text for **any audio or video file** — calls, meetings, voicemails, screen recordings, videos — using [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (CTranslate2 port of OpenAI Whisper, ~4x faster than the original). Optional speaker labels via pyannote. Nothing leaves your machine. 
 
 ## Supported input
 Anything ffmpeg can decode. Audio is extracted to 16 kHz mono WAV automatically.
