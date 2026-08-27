@@ -1,21 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-1 of 20,894
-(no subject)
-Inbox
-email notes from P
-
-P <patcampbell82@gmail.com>
-Attachments
-3:02 PM (1 minute ago)
-to me
-
- 3 Attachments
-  •  Scanned by Gmail
-
-
 # whisper-transcriber
 
 Local, offline speech-to-text for **any audio or video file** — calls, meetings, voicemails, screen recordings, videos — using [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (CTranslate2 port of OpenAI Whisper, ~4x faster than the original). Optional speaker labels via pyannote. Nothing leaves your machine.
